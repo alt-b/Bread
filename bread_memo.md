@@ -15,20 +15,36 @@
 | :---- | :---- | :---- |
 |  ポール  |  バケット、ハード系、チーズ系、クロワッサン  |  [リンク](https://www.pasconet.co.jp/paul/shop05.html)  |
 |  ドンク  |  ハード系、チーズ系、惣菜系、甘系  |  [リンク](http://www.donq.co.jp/)  |
-|  LES DEUX MAGOTS PARISドゥマゴ  |  バケット、ハード系、チーズ系  |  [リンク](http://www.saint-germain.co.jp/shop/list/shop-281/)  |
+|  LES DEUX MAGOTS  |  バケット、ハード系、チーズ系  |  [リンク](http://www.saint-germain.co.jp/shop/list/shop-281/)  |
 |  アンデルセン  |  ハード系、チーズ系、惣菜系、甘系  |  [リンク](https://www.andersen.co.jp/?utm_source=googlemb&utm_medium=organic)  |
 
 ### 自由が丘
-ヒンメル
-ラビット
+|  店名  |  パン  |  URL  |
+| :---- | :---- | :---- |
+|  ヒンメル  |  プレッツェル、ハード系、甘系  |  [リンク](http://www.himmelbrot.com/)  |
+|  baguette rabbit  |  バゲット、ハード系、チーズ系、甘系  |  [リンク](http://baguette-rabbit.com/)  |
 
 ### 尾山台
+|  店名  |  パン  |  URL  |
+| :---- | :---- | :---- |
+|  ヴァン ドゥ リュド  |  バゲット、ハード系、チーズ系、惣菜系、甘系  |  [リンク](https://www.pompadour.co.jp/ludo/)  |
 
 ### 用賀
+|  店名  |  パン  |  URL  |
+| :---- | :---- | :---- |
+|  ジャンフランコ  |  バゲット、ハード系、惣菜系  |  [リンク](http://gianfranco.jp/)  |
 
 ### 大岡山
-ヒンメル 本店
+|  店名  |  パン  |  URL  |
+| :---- | :---- | :---- |
+|  ヒンメル（本店）  |  プレッツェル、ハード系、甘系  |  [リンク](http://www.himmelbrot.com/)  |
 
 ### 有楽町
+|  店名  |  パン  |  URL  |
+| :---- | :---- | :---- |
+|  サンジェルマン タンドレス  |  ハード系、惣菜系、甘系  |  [リンク](http://www.saint-germain.co.jp/)  |
 
 ### 恵比寿
+|  店名  |  パン  |  URL  |
+| :---- | :---- | :---- |
+|  ル・グルニエ・ア・パン  |  バゲット、ハード系、チーズ系、惣菜系  |  [リンク](http://legrenierapain.com/)  |
